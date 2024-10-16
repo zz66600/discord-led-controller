@@ -67,7 +67,8 @@ Configurar as Intenções Privilegiadas:
 Role para baixo até Privileged Gateway Intents e ative as opções de "PRESENCE INTENT" e "SERVER MEMBERS INTENT" se o seu bot precisar dessas funcionalidades.
 Gerar o Link de Convite:
 
-![image](https://github.com/user-attachments/assets/28764d45-f656-40e7-a7f6-f27e06439fde)
+![image](https://github.com/user-attachments/assets/8786092d-ad8b-4622-a758-fb7120a4a1cc)
+
 
 No menu lateral, clique em "OAuth2" e depois em "URL Generator".
 
