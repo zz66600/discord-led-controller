@@ -6,7 +6,7 @@ Os recursos utilizados neste projeto foram:
 
 
 ## Hardware
-1.Arduino Nano (outras placas podem ser utilizadas, utilizadas as devidas adaptações)
+1.Arduino UNO (outras placas podem ser utilizadas, utilizadas as devidas adaptações)
 
 2.Jumpers/cabos para fazer a conexão entre os componentes
 
